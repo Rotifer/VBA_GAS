@@ -23,3 +23,4 @@ The explanatory notes comparing VBA and GAS explore:
 - Text handing
 - Arrays
 
+The full discussion: [Markdown table generation using a user-defined function](https://github.com/Rotifer/VBA_GAS/blob/main/Markdown_Generation/notes_on_generation_of_md_table.md)
