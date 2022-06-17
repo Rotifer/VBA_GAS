@@ -25,6 +25,11 @@ Default is "mid" so second argument is omitted here.
 
 `=TABLE_TO_MARKDOWN(A1:C3)`
 
+Google Sheets helpfully displays information for the custom function when you type in its name
+just as it does for built-in spreadsheet functions as shown here.
+
+![Help for custom function TABLE_TO_MARKDOWN](./imgs/googlesheets_custom_function_help.png)
+
 #### Raw markdown generated
 
 <pre>
@@ -86,3 +91,11 @@ Default is "mid" so second argument is omitted here.
 |---:|---:|---:|
 |Header|Title|Here’s this|
 |Paragraph|Text|And more|
+
+
+## Source code
+
+- [The VBA version](https://github.com/Rotifer/VBA_GAS/blob/main/Markdown_Generation/modMarkdownGenerator.bas)
+- [The GAS version](https://github.com/Rotifer/VBA_GAS/blob/main/Markdown_Generation/sheets_table_to_markdown.js)
+
+For a discussion comparing how this task was achieved in each programming language, see [this document]()
