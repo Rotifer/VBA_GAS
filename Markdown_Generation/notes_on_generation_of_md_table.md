@@ -108,3 +108,18 @@ The source code for each is given in the links below:
 - <a href="https://github.com/Rotifer/VBA_GAS/blob/main/Markdown_Generation/sheets_table_to_markdown.js" target="_blank">The GAS version</a>
 
 To follow along, open the links above in separate tabs side-by-side with this one.
+
+
+### General code syntax and layout
+
+### Variables - types and declarations
+
+### Functions
+
+### Arrays
+
+### Loops
+
+### String manipulation
+
+
